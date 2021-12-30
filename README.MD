@@ -1,1 +1,1 @@
-# Solutions to HackerRank problems in C
+Solutions to HackerRank problems in C
